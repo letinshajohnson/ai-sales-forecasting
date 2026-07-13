@@ -234,11 +234,3 @@ Senior Software Engineer · AI Specialist
 🐙 [github.com/letinshajohnson](https://github.com/letinshajohnson)
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-> ⭐ If this helped you, give it a star!
